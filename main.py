@@ -112,7 +112,7 @@ def load_config():
                        "\"smtp_server\": \"smtp.gmail.com\",\n"  \
                        "\"smtp_port\":587,\n"  \
                        "\"smtp_username\": \"testmailpython3@gmail.com\",\n"  \
-                       "\"smtp_password\": \"Red@lert31411995\",\n"  \
+                       "\"smtp_password\": \"P@ssw0rd\",\n"  \
                        "\"smtp_recipients\": [\"tuanklnew@gmail.com\",\"13520981@gm.uit.edu.vn\", \"tuannguyentri95@gmail.com\"]\n}"
         default_conf_file.write(default_conf.encode())
         default_conf_file.close()
